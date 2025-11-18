@@ -3,7 +3,7 @@ import banner from '../../assets/images/contact.png'
 
 const Contact = () => {
     return (
-        <div className='my-20 relative'>
+        <div className='relative'>
             <img className='w-full object-cover pt-20' src={banner} alt="Not Found" />
             <div className='absolute top-[50%] left-[50%] contact'>
                 <h1 className='text-5xl font-semibold text-black text-center'>Deliciousness to your inbox</h1>
