@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Crochet Projects for Noodle Lovers",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim",
+    "author": "Wade Warren",
+    "date": "12 November 2021",
+    "authorImage" : "https://i.ibb.co.com/LWwYsJc/449860195-122112192488360841-6546940745898104406-n.jpg",
+    "image": "https://i.ibb.co.com/QF2VVsS3/image-26-6.png"
+  },
+  {
+    "title": "Creative Knitting Ideas for Beginners",
+    "excerpt": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+    "author": "Esther Howard",
+    "date": "05 January 2022",
+    "image": "https://i.ibb.co.com/Q7XXg1kF/image-26-5.png",
+    "authorImage": "https://i.ibb.co.com/Rpc85Zhh/Screenshot-2025-10-25-152716.png"
+  },
+  {
+    "title": "10 DIY Home Decor Hacks",
+    "excerpt": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.",
+    "author": "Jenny Wilson",
+    "date": "28 March 2021",
+    "image": "https://i.ibb.co.com/j9b25mJm/image-26-4.png",
+    "authorImage":"https://i.ibb.co.com/xkfRdRq/484035116-122201990978042094-6409731952795669510-n.jpg"
+  },
+  {
+    "title": "Easy Recipes You Can Make in 10 Minutes",
+    "excerpt": "Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta.",
+    "author": "Cody Fisher",
+    "date": "14 July 2020",
+    "image": "https://i.ibb.co.com/V0cXntYc/image-26-3.png",
+    "authorImage": "https://i.ibb.co.com/B5C03z1g/5327664a-350c-43fa-8a0e-4d86c4667505.jpg"
+  },
+  {
+    "title": "Top Travel Destinations for 2023",
+    "excerpt": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.",
+    "author": "Guy Hawkins",
+    "date": "19 September 2023",
+    "image": "https://i.ibb.co.com/BVqNHspV/image-26-2.png",
+    "authorImage": "https://i.ibb.co.com/ZzYSsJKX/FB-IMG-17182896079146680.jpg"
+  },
+  {
+    "title": "Healthy Habits for a Better Life",
+    "excerpt": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod.",
+    "author": "Darrell Steward",
+    "date": "08 August 2022",
+    "image": "https://i.ibb.co.com/8Rzk78t/image-26-1.png",
+    "authorImage": "https://i.ibb.co.com/tTBGByhS/6948fbf942a59cd1efe4637cdd22bcb0.jpg"
+  }
+]
