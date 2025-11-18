@@ -7,7 +7,11 @@ const router = createBrowserRouter([
         path: '/',
         Component: Root,
         children: [
-            {index: true, Component: HomePage},
+            {
+                index: true,
+                Component: HomePage,
+                loader: () => fetch('food.json'),
+            },
         ]
     }
 ]);
