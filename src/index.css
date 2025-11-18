@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lobster&display=swap');
+@import "tailwindcss";
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@theme{
+    --color-secondary: #FF7426
+}
