@@ -9,7 +9,7 @@ import user from '../../assets/images/headeruser.png'
 
 const Header = () => {
     return (
-        <header className='grid grid-cols-2 bg-[#E7FAFE] relative  rounded-2xl mb-20'>
+        <header className='grid grid-cols-2 bg-[#E7FAFE] mt-8 relative  rounded-2xl mb-20'>
             <div className='p-12'>
                 <button className='flex items-center gap-2 text-black text-sm font-semibold py-3 px-5 bg-white rounded-full cursor-pointer'>
                     <img src={packet} alt="not Found" />
