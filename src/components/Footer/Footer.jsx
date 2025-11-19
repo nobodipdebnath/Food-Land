@@ -6,11 +6,11 @@ import { FaTwitter } from "react-icons/fa";
 
 const Footer = () => {
     const links = <>
-        <li><NavLink>Home</NavLink></li>
-        <li><NavLink>Recipes</NavLink></li>
-        <li><NavLink>Blog</NavLink></li>
-        <li><NavLink>About us</NavLink></li>
-        <li><NavLink>Contact</NavLink></li>
+        <li><NavLink to='/'>Home</NavLink></li>
+        <li><NavLink to='/recipes'>Recipes</NavLink></li>
+        <li><NavLink to='/blog'>Blog</NavLink></li>
+        <li><NavLink to='/about' >About us</NavLink></li>
+        <li><NavLink to='/contact' >Contact</NavLink></li>
     </>
     return (
         <footer className=''>
@@ -31,9 +31,9 @@ const Footer = () => {
                     <p>© 2020 Flowbase. Powered by <span className='text-secondary'>Webflow</span></p>
                 </div>
                 <div className='flex gap-10 text-xl text-black items-center'>
-                    <Link><FaFacebookF></FaFacebookF></Link>
-                    <Link><FaTwitter></FaTwitter></Link>
-                    <Link><FaInstagram></FaInstagram></Link>
+                    <Link to='https://www.facebook.com/profile.php?id=61554300737206' target='_blank'><FaFacebookF></FaFacebookF></Link>
+                    <Link to='https://x.com/DebnathD46507' target='_blank'><FaTwitter></FaTwitter></Link>
+                    <Link to='https://www.instagram.com/nobodip.debnath01/' target='_blank' ><FaInstagram></FaInstagram></Link>
                 </div>
             </div>
         </footer>

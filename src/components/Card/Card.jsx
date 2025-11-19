@@ -16,7 +16,7 @@ const Card = ({card}) => {
                 </div>
             }
             {
-                time && <button className='text-2xl p-3 cursor-pointer text-secondary absolute top-[8%] right-[8%] bg-white rounded-full ' ><MdFavorite className=''></MdFavorite></button>
+                time && <button className='text-2xl p-3 cursor-pointer hover:text-red-600 duration-300 text-gray-400 absolute top-[8%] right-[8%] bg-white rounded-full ' ><MdFavorite className=''></MdFavorite></button>
             }
         </div>
     );
